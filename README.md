@@ -7,4 +7,4 @@
 - Your db ready for project. 
 - You can run SetupLibrary in your setup files location. 
 - If everything are okay, you can reach your shortcut on your desktop.
-
+- Account info => Kullanıcı adı= Mir123, Şifre= 123456
